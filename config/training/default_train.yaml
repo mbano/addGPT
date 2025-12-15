@@ -1,0 +1,13 @@
+seed: 42
+batch_size: 64
+learning_rate: 15e-5
+weight_decay: 1e-2
+warm_up_steps: 300
+eval_interval: 500
+eval_iters: 200
+max_iters: 13000
+early_stop_patience: 10
+data_split: [0.8, 0.1, 0.1]
+max_norm: 1.0
+# dataset_size: 100000 # should come from instantiation, batch_size * 100_000
+

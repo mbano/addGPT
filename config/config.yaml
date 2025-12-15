@@ -1,0 +1,6 @@
+# Top-level Hydra configuration that composes data, model and training settings
+
+defaults:
+  - data: default_data
+  - model: tiny
+  - training: default_train

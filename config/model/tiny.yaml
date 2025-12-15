@@ -1,0 +1,7 @@
+n_emb: 128
+n_heads: 8
+n_blocks: 4
+dropout_emb: 0.1
+dropout_att: 0.1
+dropout_proj: 0.1
+dropout_ff: 0.1
