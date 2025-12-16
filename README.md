@@ -3,7 +3,7 @@
 addGPT is an educational, end-to-end implementation of a transformer encoder–decoder that learns to perform integer addition directly on string-encoded numbers. The project is designed to explore how transformers can learn simple algorithmic tasks while maintaning modern deep learning engineering patterns in PyTorch (config-driven training, experiment management and hyperparameter search).
 
 <p align="center">
-  <img src="fig/Figure_1.png" width="400" alt="Training Progress"/>
+  <img src="fig/Figure_3.png" width="400" alt="Training Progress"/>
 </p>
 
 ## Overview
